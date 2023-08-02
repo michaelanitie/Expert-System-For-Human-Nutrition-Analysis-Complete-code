@@ -1,0 +1,128 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+EXPERT_SYSTEM_FOR_HUMAN_NUTRITION_ANALYSIS
+</name>
+</assembly>
+<members>
+<member name="T:EXPERT_SYSTEM_FOR_HUMAN_NUTRITION_ANALYSIS.hospitalDataSet.usersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EXPERT_SYSTEM_FOR_HUMAN_NUTRITION_ANALYSIS.hospitalDataSet.usersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EXPERT_SYSTEM_FOR_HUMAN_NUTRITION_ANALYSIS.hospitalDataSet.usersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EXPERT_SYSTEM_FOR_HUMAN_NUTRITION_ANALYSIS.hospitalDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:EXPERT_SYSTEM_FOR_HUMAN_NUTRITION_ANALYSIS.hospitalDataSetTableAdapters.usersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:EXPERT_SYSTEM_FOR_HUMAN_NUTRITION_ANALYSIS.hospitalDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(EXPERT_SYSTEM_FOR_HUMAN_NUTRITION_ANALYSIS.hospitalDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:EXPERT_SYSTEM_FOR_HUMAN_NUTRITION_ANALYSIS.hospitalDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(EXPERT_SYSTEM_FOR_HUMAN_NUTRITION_ANALYSIS.hospitalDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:EXPERT_SYSTEM_FOR_HUMAN_NUTRITION_ANALYSIS.hospitalDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(EXPERT_SYSTEM_FOR_HUMAN_NUTRITION_ANALYSIS.hospitalDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:EXPERT_SYSTEM_FOR_HUMAN_NUTRITION_ANALYSIS.hospitalDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:EXPERT_SYSTEM_FOR_HUMAN_NUTRITION_ANALYSIS.hospitalDataSetTableAdapters.TableAdapterManager.UpdateAll(EXPERT_SYSTEM_FOR_HUMAN_NUTRITION_ANALYSIS.hospitalDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:EXPERT_SYSTEM_FOR_HUMAN_NUTRITION_ANALYSIS.hospitalDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:EXPERT_SYSTEM_FOR_HUMAN_NUTRITION_ANALYSIS.hospitalDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:EXPERT_SYSTEM_FOR_HUMAN_NUTRITION_ANALYSIS.hospitalDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:EXPERT_SYSTEM_FOR_HUMAN_NUTRITION_ANALYSIS.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:EXPERT_SYSTEM_FOR_HUMAN_NUTRITION_ANALYSIS.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:EXPERT_SYSTEM_FOR_HUMAN_NUTRITION_ANALYSIS.My.Resources.Resources._10">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EXPERT_SYSTEM_FOR_HUMAN_NUTRITION_ANALYSIS.My.Resources.Resources.bmi1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EXPERT_SYSTEM_FOR_HUMAN_NUTRITION_ANALYSIS.My.Resources.Resources.hospital1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EXPERT_SYSTEM_FOR_HUMAN_NUTRITION_ANALYSIS.My.Resources.Resources.hospital2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EXPERT_SYSTEM_FOR_HUMAN_NUTRITION_ANALYSIS.My.Resources.Resources.hospital3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EXPERT_SYSTEM_FOR_HUMAN_NUTRITION_ANALYSIS.My.Resources.Resources.images__7_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EXPERT_SYSTEM_FOR_HUMAN_NUTRITION_ANALYSIS.My.Resources.Resources.images_bmi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EXPERT_SYSTEM_FOR_HUMAN_NUTRITION_ANALYSIS.My.Resources.Resources.images_bmi1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EXPERT_SYSTEM_FOR_HUMAN_NUTRITION_ANALYSIS.My.Resources.Resources.lock">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EXPERT_SYSTEM_FOR_HUMAN_NUTRITION_ANALYSIS.My.Resources.Resources.Password_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EXPERT_SYSTEM_FOR_HUMAN_NUTRITION_ANALYSIS.My.Resources.Resources.splah">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EXPERT_SYSTEM_FOR_HUMAN_NUTRITION_ANALYSIS.My.Resources.Resources.splah1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EXPERT_SYSTEM_FOR_HUMAN_NUTRITION_ANALYSIS.My.Resources.Resources.splah2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:EXPERT_SYSTEM_FOR_HUMAN_NUTRITION_ANALYSIS.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
